@@ -1,6 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
+
 }
 
 .wrapper{
@@ -10,6 +8,7 @@
 
 
 .img-selfie {
+    margin-bottom: 50px;
     width: 368px;
     height: 552px;
     background-image: url(img/selfie.jpg);
